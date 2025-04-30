@@ -1,0 +1,11 @@
+Model Information:
+* title:	Female body base
+* source:	https://sketchfab.com/3d-models/female-body-base-70b62bb29e69439aa3b4483451b0e625
+* author:	Dori Mur (https://sketchfab.com/dorimur)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Female body base" (https://sketchfab.com/3d-models/female-body-base-70b62bb29e69439aa3b4483451b0e625) by Dori Mur (https://sketchfab.com/dorimur) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
