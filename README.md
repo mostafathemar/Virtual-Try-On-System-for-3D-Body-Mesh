@@ -10,7 +10,8 @@ A robust virtual try-on system that aligns and fits 3D clothing onto SMPL-X body
 - **Gender-Specific Processing**: Supports male and female body types
 
 ## Core Pipeline Architecture
-``` graph TD
+```
+graph TD
         A[Input Meshes] --> B[Landmark Extraction]
         B --> C[Geometric Alignment]
         C --> D[Collision Resolution]
