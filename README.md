@@ -10,13 +10,13 @@ A robust virtual try-on system that aligns and fits 3D clothing onto SMPL-X body
 - **Gender-Specific Processing**: Supports male and female body types
 
 ## Core Pipeline Architecture
-    graph TD
+``` graph TD
         A[Input Meshes] --> B[Landmark Extraction]
         B --> C[Geometric Alignment]
         C --> D[Collision Resolution]
         D --> E[Visualization]
         E --> F[Output Generation]
-    
+```    
 ## Installation
 
 ```bash
@@ -35,4 +35,4 @@ pip install -r requirements.txt
 Please see the LICENSE file for details.
 
 ## Contact:
-If you have any questions, please feel free to contact us at mostafathemar@email.com.
+If you have any questions, please feel free to contact us at mostafathemar@gmail.com.
