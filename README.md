@@ -10,12 +10,12 @@ A robust virtual try-on system that aligns and fits 3D clothing onto SMPL-X body
 - **Gender-Specific Processing**: Supports male and female body types
 
 ## Core Pipeline Architecture
-graph TD
-    A[Input Meshes] --> B[Landmark Extraction]
-    B --> C[Geometric Alignment]
-    C --> D[Collision Resolution]
-    D --> E[Visualization]
-    E --> F[Output Generation]
+    graph TD
+        A[Input Meshes] --> B[Landmark Extraction]
+        B --> C[Geometric Alignment]
+        C --> D[Collision Resolution]
+        D --> E[Visualization]
+        E --> F[Output Generation]
     
 ## Installation
 
@@ -26,8 +26,7 @@ cd virtual-try-on
 ```
 # Create a virtual environment
 python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# venv\Scripts\activate  # Windows
+venv\Scripts\activate  # Windows
 
 # Install dependencies
 pip install -r requirements.txt
